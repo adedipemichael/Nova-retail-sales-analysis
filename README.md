@@ -63,3 +63,7 @@ The analysis focuses on total revenue, product categories, customer behavior, an
 * Recognize and reward top-performing sales reps like Abdul Salim  
 * Monitor discount strategies to maintain healthy profit margins  
 * Prepare for seasonal peaks (e.g., February) with adequate inventory and staffing  
+
+## Conclusion
+This analysis provided actionable insights into NovaRetail Ltd.’s sales performance across cities, customer segments, and product categories.
+By leveraging these findings, the company can optimize marketing, inventory, and customer engagement strategies to drive profitability and growth.
